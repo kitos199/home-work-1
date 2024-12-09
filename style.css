@@ -1,0 +1,17 @@
+*,body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: pink;
+}
+
+header{
+    width: 95%;
+    margin: 10px auto;
+}
+
+header>h1{
+    text-align:center;
+    background-color: aqua;
+    padding: 15px 0
+}
